@@ -514,6 +514,7 @@
 
 ## CORS related issues 
 
+- [Fun With CORS Misconfiguration](https://medium.com/@amangupta566/fun-with-cors-misconfiguration-ii-927caccfe932)
 - [CORS bug on google's 404 page (rewarded)](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b)
 - [CORS misconfiguration leading to private information disclosure](https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93)
 - [CORS misconfiguration account takeover out of scope to grab items in scope](https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46)

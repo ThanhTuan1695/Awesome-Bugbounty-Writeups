@@ -647,8 +647,9 @@
 - [Facebook source code disclosure in ads API](https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/)
 - [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549)
 
+## SAML PENTEST REPORT AND RESEARCH
+- [The beer drinker guilde to saml](https://duo.com/blog/the-beer-drinkers-guide-to-saml)
 ## Contributing 
 - Open Pull Requests
-- Send me links of writeups to My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
 
 

@@ -649,6 +649,7 @@
 
 ## SAML PENTEST REPORT AND RESEARCH
 - [The beer drinker guilde to saml](https://duo.com/blog/the-beer-drinkers-guide-to-saml)
+- [duo-finds-saml-vulnerabilities-affecting-multiple-implementations](https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations)
 ## Contributing 
 - Open Pull Requests
 

@@ -650,6 +650,7 @@
 ## SAML PENTEST REPORT AND RESEARCH
 - [The beer drinker guilde to saml](https://duo.com/blog/the-beer-drinkers-guide-to-saml)
 - [duo-finds-saml-vulnerabilities-affecting-multiple-implementations](https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations)
+- [SAML Response Reuse on hackerone.com/users/saml/auth](https://hackerone.com/reports/888930)
 ## Contributing 
 - Open Pull Requests
 

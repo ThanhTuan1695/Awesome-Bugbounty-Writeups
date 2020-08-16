@@ -445,6 +445,8 @@
 - [DOS on Facebook android app using zero width no break characters ](https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89)
 - [Whatsapp DOS vulnerability on android and iOS](https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4)
 - [Whatsapp DOS vulnerability in iOS android](https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253)
+- https://hackerone.com/reports/921704
+- https://hackerone.com/reports/591302
 
 ## Authentication Bypass 
 

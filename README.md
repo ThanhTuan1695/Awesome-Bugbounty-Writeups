@@ -658,5 +658,6 @@
 ## OTP bypas
 - https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f
 - https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90
-
+## password reset
+-  https://www.anugrahsr.me/posts/10-Password-reset-flaws/
 

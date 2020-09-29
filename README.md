@@ -655,5 +655,7 @@
 - [SAML Response Reuse on hackerone.com/users/saml/auth](https://hackerone.com/reports/888930)
 ## XML injection 
 - https://hackerone.com/reports/845832
+## OTP bypas
+- https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f
 
 

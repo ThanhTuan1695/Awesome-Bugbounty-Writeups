@@ -660,4 +660,6 @@
 - https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90
 ## password reset
 -  https://www.anugrahsr.me/posts/10-Password-reset-flaws/
+## bounty journey
+- https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
 

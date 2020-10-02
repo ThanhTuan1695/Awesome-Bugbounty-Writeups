@@ -662,4 +662,5 @@
 -  https://www.anugrahsr.me/posts/10-Password-reset-flaws/
 ## bounty journey
 - https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
+- https://medium.com/bugbountywriteup/taking-down-the-sso-account-takeover-in-3-websites-of-kolesa-due-to-insecure-jsonp-call-facd79732e45
 

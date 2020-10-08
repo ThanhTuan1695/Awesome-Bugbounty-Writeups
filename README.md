@@ -312,6 +312,10 @@
 - [Reflected XSS in Yahoo](https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448)
 - [Reflected XSS on ww.yahoo.com](https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c)
 - [XSS because of wrong content type header](https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html)
+## DOmpify bypass
+- https://portswigger.net/research/bypassing-dompurify-again-with-mutation-xss
+- https://research.securitum.com/dompurify-bypass-using-mxss/
+
 
 ## Cross Site Request Forgery (CSRF)
 
